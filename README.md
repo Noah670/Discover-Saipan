@@ -1,4 +1,4 @@
-# [Discover-Saipan] !(https://noah670.github.io/Discover-Saipan/)
+# [Discover-Saipan](https://noah670.github.io/Discover-Saipan/)
 
 - Come and discover the beautiful island of [Saipan]!(https://noah670.github.io/Discover-Saipan/)
 - See the top attractions and activities 
