@@ -7,3 +7,11 @@
 
 
 ![alt-text](https://github.com/Noah670/Discover-Saipan/blob/main/screens/discover-saipan.jpg)
+
+
+
+
+
+
+
+Discover Saipan!
