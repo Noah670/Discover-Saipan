@@ -5,4 +5,5 @@
 - Find your new favourite place to dine in Saipan
 - Stay up to date on travel requirements for incoming tourists regarding the latest [COVID-19](https://governor.gov.mp/covid-19/) information
 
+
 ![alt-text](https://github.com/Noah670/Discover-Saipan/blob/main/screens/discover-saipan.jpg)
